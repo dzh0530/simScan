@@ -1,9 +1,9 @@
 # 快来靓号
 快来靓号，一款纯粹办理免费靓号的App，30个卡种，全国包邮，一键扫号下单功能，再也不用去营业厅办理号码，是一个无开屏，无广告，无后台的三无产品。
 
-官网: [www.kllh.vip](www.kllh.vip)
-微博：[梓浩8888](https://weibo.com/6056989655/profile?topnav=1&wvr=6)
-知乎：[梓浩](https://www.zhihu.com/people/dzh-48-69)
+- 官网: [www.kllh.vip](www.kllh.vip)
+- 微博：[梓浩8888](https://weibo.com/6056989655/profile?topnav=1&wvr=6)
+- 知乎：[梓浩](https://www.zhihu.com/people/dzh-48-69)
 
 ### 【特色】
 1. 免费使用，数据永久保存手机，无后门，不上传;
