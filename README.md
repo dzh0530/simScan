@@ -3,7 +3,6 @@
 
 - 官网: [www.kllh.vip](www.kllh.vip)
 - 微博：[梓浩8888](https://weibo.com/6056989655/profile?topnav=1&wvr=6)
-- 知乎：[梓浩](https://www.zhihu.com/people/dzh-48-69)
 
 ### 【特色】
 1. 免费使用，数据永久保存手机，无后门，不上传;
